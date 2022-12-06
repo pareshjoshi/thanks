@@ -704,28 +704,9 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-s48MCQYojq {
-  background-image: url("../../../assets/images/mbr-1-1920x1080.jpg");
-}
-.cid-s48MCQYojq .mbr-section-title {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-s48MCQYojq .mbr-text,
-.cid-s48MCQYojq .mbr-section-btn {
-  color: #ffffff;
-  text-align: right;
-}
-@media (max-width: 991px) {
-  .cid-s48MCQYojq .mbr-section-title,
-  .cid-s48MCQYojq .mbr-section-btn,
-  .cid-s48MCQYojq .mbr-text {
-    text-align: center;
-  }
-}
 .cid-toRHFjogBs {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 2rem;
+  padding-bottom: 0rem;
   background-image: url("../../../assets/images/mbr-1920x1285.jpg");
 }
 .cid-toRHFjogBs .mbr-fallback-image.disabled {
@@ -759,8 +740,8 @@ a {
   color: #ffffff;
 }
 .cid-to2HdxVakI {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
   background-image: url("../../../assets/images/mbr-2-1920x1280.jpg");
 }
 .cid-to2HdxVakI .mbr-fallback-image.disabled {
@@ -1119,7 +1100,7 @@ a {
   }
 }
 .cid-to2obubjKm {
-  padding-top: 6rem;
+  padding-top: 3rem;
   padding-bottom: 6rem;
   background-image: url("../../../assets/images/mbr-1920x1112.jpg");
 }
